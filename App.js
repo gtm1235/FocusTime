@@ -8,7 +8,7 @@ import {
   StatusBar,
 } from 'react-native';
 
-/
+
 
 import { colors } from './src/utils/colors';
 import { Focus } from './src/features/Focus';
